@@ -9,3 +9,14 @@ D:\Projetos\01-HelloWorld\01-HelloWorld\obj\Debug\netcoreapp2.2\01-HelloWorld.As
 D:\Projetos\01-HelloWorld\01-HelloWorld\obj\Debug\netcoreapp2.2\01-HelloWorld.AssemblyInfo.cs
 D:\Projetos\01-HelloWorld\01-HelloWorld\obj\Debug\netcoreapp2.2\01-HelloWorld.dll
 D:\Projetos\01-HelloWorld\01-HelloWorld\obj\Debug\netcoreapp2.2\01-HelloWorld.pdb
+D:\Beginning-Dotnet\01-HelloWorld\bin\Debug\netcoreapp2.2\01-HelloWorld.deps.json
+D:\Beginning-Dotnet\01-HelloWorld\bin\Debug\netcoreapp2.2\01-HelloWorld.runtimeconfig.json
+D:\Beginning-Dotnet\01-HelloWorld\bin\Debug\netcoreapp2.2\01-HelloWorld.runtimeconfig.dev.json
+D:\Beginning-Dotnet\01-HelloWorld\bin\Debug\netcoreapp2.2\01-HelloWorld.dll
+D:\Beginning-Dotnet\01-HelloWorld\bin\Debug\netcoreapp2.2\01-HelloWorld.pdb
+D:\Beginning-Dotnet\01-HelloWorld\obj\Debug\netcoreapp2.2\01-HelloWorld.csprojAssemblyReference.cache
+D:\Beginning-Dotnet\01-HelloWorld\obj\Debug\netcoreapp2.2\01-HelloWorld.csproj.CoreCompileInputs.cache
+D:\Beginning-Dotnet\01-HelloWorld\obj\Debug\netcoreapp2.2\01-HelloWorld.AssemblyInfoInputs.cache
+D:\Beginning-Dotnet\01-HelloWorld\obj\Debug\netcoreapp2.2\01-HelloWorld.AssemblyInfo.cs
+D:\Beginning-Dotnet\01-HelloWorld\obj\Debug\netcoreapp2.2\01-HelloWorld.dll
+D:\Beginning-Dotnet\01-HelloWorld\obj\Debug\netcoreapp2.2\01-HelloWorld.pdb
