@@ -1,4 +1,6 @@
-﻿namespace Exercicio01.Model
+﻿using Exercicio01.Exceptions;
+
+namespace Exercicio01.Model.Banco
 {
     class ContaPoupanca : Conta, IContaInvestimento
     {
@@ -24,9 +26,9 @@
             }
             else
             {
-                Saldo -= valor;
+                Saldo -= valor + Taxa;
             }
-            return valor;
+            return valor + Taxa;
 
         }
 

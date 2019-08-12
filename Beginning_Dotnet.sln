@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.29020.237
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01-HelloWorld", "01-HelloWorld\01-HelloWorld.csproj", "{BDD1D549-D5D2-43BA-AF01-765AF6E25594}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio01", "Exercicio01\Exercicio01.csproj", "{D2922900-BAD4-4F11-A660-4023CD7FE434}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio01", "Exercicio01\Exercicio01.csproj", "{D2922900-BAD4-4F11-A660-4023CD7FE434}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

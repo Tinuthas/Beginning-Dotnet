@@ -1,24 +1,27 @@
-﻿namespace Exercicio01.Model
+﻿using Exercicio01.Exceptions;
+using Exercicio01.Model;
+
+namespace Exercicio01.Banco.Model
 {
-    class ContaCorrente : Conta
+
+    //sealed -> a classe não pode ser herdada
+    sealed class ContaCorrente : Conta
     {
         public TipoConta Tipo { get; set; }
         public override void Depositar(decimal valor)
         {
-            this.Saldo += valor;
+            Saldo += valor;
         }
 
         public override decimal Retirar(decimal valor)
         {
-            if (Saldo - valor < 0)
+            if (Saldo - valor < 0 && Tipo == TipoConta.Comum)
             {
                 valor = 0;
                 throw new SaldoInsuficienteException("Retirada na Corrente negada");
             }
-            else
-            {
-                Saldo -= valor;
-            }
+            Saldo -= valor;
+            
             return valor;
 
         }

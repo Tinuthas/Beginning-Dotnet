@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Exercicio01.Model
+namespace Exercicio01.Exceptions
 {
     class SaldoInsuficienteException : Exception
     {
